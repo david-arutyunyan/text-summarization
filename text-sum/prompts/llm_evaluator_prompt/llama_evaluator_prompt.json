@@ -1,0 +1,3 @@
+{
+  "prompt": "Please rate the following summary.\nText: {text}\nSummary: {summary}\nGive 3 scores from 1 to 5 (Factual correctness, Relevance, Fluency), each on a separate line:"
+}
